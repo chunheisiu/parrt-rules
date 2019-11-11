@@ -1,5 +1,5 @@
 # parrt-rules
-List of Known ![Parrt](https://github.com/parrt) Rules
+List of Known [parrt](https://github.com/parrt) Rules
 
 | Parrt Rule # |   |
 |---|---|
