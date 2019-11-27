@@ -22,5 +22,6 @@ List of Known [parrt](https://github.com/parrt) Rules
 | 15 | Don’t solve problems until they exist |
 | 16 | Never let the computer win; if you decide to fix a bug, never give up |
 | 17 | Reduce number of moving parts to avoid a point of failure |
-| 18 |  Automation helps productivity, yes, but it's also critically important to making things work correctly and reproducibly |
-| 19 |  Use the simplest possible thing that will work; only sacrifice readability if performance is important |
+| 18 | Automation helps productivity, yes, but it's also critically important to making things work correctly and reproducibly |
+| 19 | Use the simplest possible thing that will work; only sacrifice readability if performance is important |
+| 20 | Precision does not equal to accuracy |
