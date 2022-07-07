@@ -25,3 +25,4 @@ List of Known [parrt](https://github.com/parrt) Rules
 | 18 | Automation helps productivity, yes, but it's also critically important to making things work correctly and reproducibly |
 | 19 | Use the simplest possible thing that will work; only sacrifice readability if performance is important |
 | 20 | Precision does not equal to accuracy |
+| 21 | Effort is not the same thing as progress |
